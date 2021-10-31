@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="athorization">Athorization</string>
+    <string name="registrate">Registrate</string>
+    <string name="enter">Enter</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="back">Back</string>
+    <string name="welcomeUser">Welcome User!</string>
+</resources>
